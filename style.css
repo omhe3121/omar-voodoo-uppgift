@@ -1,0 +1,195 @@
+@font-face {
+    src: url();
+    font-family: sans-serif ;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+.huvud {
+    overflow: hidden;
+}
+
+
+
+.huvud-text h1 {
+    text-align: center;
+    font-size: 26.6667px;
+    font-weight: 800;
+    margin-top: 45px;
+}
+
+.huvud-text {
+    text-align: center;
+}
+
+.huvud-text img {
+    background-size: cover;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
+
+
+
+.hey-guys {
+    text-align: right;
+}
+
+.hey-guys h1 {
+    font-size: 45px;
+    font-weight: 800;
+    padding: 0px 95px;
+    margin-bottom: 40px;
+}
+
+.hey-guys p {
+    font-size: 21.6667px;
+    color: #8B8C90;
+}
+
+
+
+
+
+.midtext p {
+    font-size: 21.333px;
+    color: #8B8C90;
+    font-weight: 400;
+}
+
+
+
+.bg-lastimg {
+    position: relative;
+}
+
+.bg-lastimg img {
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.last-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+}
+
+.last-text p {
+    padding: 0px 300px;
+    font-size: 20.5333px;
+    color: #8B8C90;
+    letter-spacing: 0.2px;
+    word-spacing: 1.2px;
+}
+
+.last-text h1 {
+    font-size: 50.4px;
+    font-weight: 800;
+}
+
+
+
+.text-fl {
+    padding: 85px 0px;
+    padding-right: 0px;
+    padding-right: 95px;
+}
+
+.text-fl h1 {
+    font-size: 26.1333px;
+    color: #fff;
+    font-weight: 800;
+}
+
+.text-fl p {
+    font-size: 20.533px;
+    color: #fff;
+    letter-spacing: .3px;
+    word-spacing: .3px;
+    line-height: 30px;
+    margin-top: 35px;
+}
+
+.text-fr p {
+    font-size: 20.533px;
+    color: #fff;
+    text-align: right;
+    padding: 150px 0px;
+    letter-spacing: .3px;
+    word-spacing: .3px;
+    line-height: 32px;
+}
+
+.phone img {
+    width: 138%;
+}
+
+.b-3text {
+    margin-top: 175px;
+}
+
+.b-3text h1 {
+    font-size: 23.3333px;
+    font-weight: 800;
+    margin-bottom: 27px;
+}
+
+.b-3text p {
+    font-size: 21.333px;
+    color: #8B8C90;
+    font-weight: 400;
+}
+
+
+.b-4img img {
+    width: 167%;
+}
+
+.b-4text p {
+    font-size: 21.333px;
+    color: #8B8C90;
+    font-weight: 400;
+    text-align: right;
+    word-spacing: .3px;
+    letter-spacing: .3px;
+}
+
+.b-4text {
+    margin-top: 175px;
+}
+
+*::before,
+*::after {
+    padding: 0;
+    margin: 0;
+}
+
+ul,
+ol {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+span {
+    font-weight: 500;
+    color: #707176;
+}
+
